@@ -1,0 +1,4 @@
+# this file sets configurations for our jekyll website 
+title : CS-340 
+description :  This is a test of CI/CD with Github pages 
+theme: jekyll-theme-minimal
